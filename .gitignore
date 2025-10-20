@@ -1,2 +1,4 @@
 generated/
 datasets/SDFssmallset_extracted/
+datasets/molecule_images/
+gspan_env/
